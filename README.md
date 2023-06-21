@@ -1,8 +1,8 @@
 # Backlog Refinement Cards
-Welcome to the repository for Backlog Refinement Cards! This repository contains a series of cards designed to assist in the sprint planning process, allowing for more effective management of dependencies in software development projects.
+Welcome to the repository for Backlog Refinement Cards! This repository contains a series of cards designed to assist in the sprint planning and backlog refinement process, allowing for more reducing and handling complexity in software development projects.
 
 ## About the Cards
-Backlog Refinement Cards are an innovative tool designed to streamline the sprint planning process and effectively manage dependencies in software development projects. The primary motivation behind their use is the reduction of complexity and size of backlog items prior to their implementation.
+Backlog Refinement Cards are a tool designed to streamline the sprint planning and backlog refinment process in agile software development projects. The primary motivation behind their use is the reduction of complexity and size of backlog items prior to their implementation.
 
 By breaking down backlog items into smaller units, teams can more accurately anticipate the effort and time required for each component, thereby enhancing overall project predictability. This granular understanding of tasks not only facilitates better planning and distribution of work but also helps to identify dependencies between different tasks, allowing for proactive management of potential roadblocks.
 
