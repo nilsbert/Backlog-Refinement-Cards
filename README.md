@@ -75,7 +75,7 @@ These cards are free for everyone to download and use, whether privately or in o
 ## Contribution
 Committing to this repository will be activated soon. We look forward to your contributions!
 
-##Buy the Cards
+## Buy the Cards
 Buy the Cards here: [Backlog Refinement Cards @ Etsy](https://www.etsy.com/de/listing/1683651990/backlog-refinement-cards)
 
 ## More Information
